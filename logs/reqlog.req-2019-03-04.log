@@ -1,0 +1,32 @@
+[2019-03-04T14:46:32.638] [INFO] normal - test info 1
+[2019-03-04T14:46:35.131] [INFO] normal - 携带参数的测试
+[2019-03-04T14:46:35.150] [ERROR] normal - 成功返回数据
+[2019-03-04T14:46:35.157] [INFO] normal - [::1 POST /paraTest 200 40ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T14:49:09.943] [INFO] normal - 携带参数的测试
+[2019-03-04T14:49:09.950] [ERROR] normal - 成功返回数据
+[2019-03-04T14:49:09.952] [INFO] normal - [::1 POST /paraTest 200 10ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T14:54:00.966] [INFO] normal - test info 1
+[2019-03-04T14:54:05.927] [INFO] default - [::1 POST /paraTest 500 27ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T14:54:37.020] [INFO] normal - test info 1
+[2019-03-04T14:54:46.562] [INFO] normal - test info 1
+[2019-03-04T14:54:47.814] [INFO] default - [::1 POST /paraTest 500 28ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T14:55:00.565] [INFO] normal - test info 1
+[2019-03-04T14:57:21.609] [INFO] default - test info 1
+[2019-03-04T14:57:24.356] [INFO] default - [::1 POST /paraTest 500 29ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T14:57:40.671] [INFO] default - test info 1
+[2019-03-04T14:57:41.976] [INFO] default - [::1 POST /paraTest 200 47ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T14:58:41.650] [INFO] default - test info 1
+[2019-03-04T14:59:05.223] [INFO] default - test info 1
+[2019-03-04T14:59:08.090] [INFO] default - [::1 POST /paraTest 200 41ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T15:00:34.833] [INFO] default - test info 1
+[2019-03-04T15:00:36.649] [INFO] default - [::1 POST /paraTest 200 39ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T15:00:55.737] [INFO] default - test info 1
+[2019-03-04T15:00:59.476] [INFO] default - [::1 POST /paraTest 200 45ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T15:03:43.214] [INFO] default - test info 1
+[2019-03-04T15:03:45.518] [INFO] default - [::1 POST /paraTest 200 43ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T15:04:17.029] [INFO] default - [::1 POST /paraTest 200 6ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T15:22:31.952] [INFO] default - test info 1
+[2019-03-04T15:33:47.766] [INFO] default - test info 1
+[2019-03-04T15:33:55.298] [INFO] default - [::1 POST /paraTest 200 42ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T15:34:44.309] [INFO] default - [::1 POST /paraTest 200 18ms][ HTTP/1.1 PostmanRuntime/7.6.0]
+[2019-03-04T15:35:03.706] [INFO] default - [::1 POST /paraTest 200 4ms][ HTTP/1.1 PostmanRuntime/7.6.0]

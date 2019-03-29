@@ -1,0 +1,21 @@
+[2019-03-20T10:49:57.850] [INFO] default - test info 1
+[2019-03-20T10:50:38.383] [INFO] default - test info 1
+[2019-03-20T11:17:41.935] [INFO] default - test info 222222222
+[2019-03-20T11:17:42.000] [INFO] default - [::1 GET /tasks 200 80ms][ HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
+[2019-03-20T11:17:42.199] [INFO] default - [::1 GET /favicon.ico 404 2ms][http://localhost:3000/tasks HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
+[2019-03-20T11:18:14.966] [INFO] default - [::1 GET /rollBackTest 500 0ms][ HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
+[2019-03-20T11:21:36.678] [INFO] default - test info 1
+[2019-03-20T11:21:40.152] [INFO] default - [::1 GET /rollBackTest 500 11ms][ HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
+[2019-03-20T11:21:43.182] [INFO] default - [::1 GET /rollBackTest 500 2ms][ HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
+[2019-03-20T11:21:43.373] [INFO] default - [::1 GET /rollBackTest 500 1ms][ HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
+[2019-03-20T11:21:43.573] [INFO] default - [::1 GET /rollBackTest 500 1ms][ HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
+[2019-03-20T11:23:00.224] [INFO] default - test info 1
+[2019-03-20T11:24:47.912] [INFO] default - test info 1
+[2019-03-20T11:25:03.584] [INFO] default - test info 1
+[2019-03-20T11:25:40.883] [INFO] default - test info 1
+[2019-03-20T11:25:42.719] [INFO] default - [::1 GET /rollBackTest 200 36ms][ HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
+[2019-03-20T11:30:09.331] [INFO] default - test info 1
+[2019-03-20T11:31:27.474] [INFO] default - test info 1
+[2019-03-20T11:33:01.529] [INFO] default - test info 1
+[2019-03-20T11:33:02.415] [INFO] default - [::ffff:127.0.0.1 GET /rollBackTest 200 36ms][ HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
+[2019-03-20T11:49:12.125] [INFO] default - test info 1

@@ -1,0 +1,13 @@
+[2019-03-27T09:37:46.525] [INFO] default - test info 1
+[2019-03-27T14:11:45.858] [INFO] default - test info 1
+[2019-03-27T14:11:46.692] [INFO] default - [::ffff:127.0.0.1 GET /reset 404 10ms][ HTTP/1.1 node-superagent/3.8.3]
+[2019-03-27T14:15:50.564] [INFO] default - test info 1
+[2019-03-27T14:15:51.413] [INFO] default - [::ffff:127.0.0.1 GET /reset 404 10ms][ HTTP/1.1 node-superagent/3.8.3]
+[2019-03-27T14:23:52.408] [INFO] default - test info 1
+[2019-03-27T14:23:53.239] [INFO] default - [undefined GET / 200 10ms][ HTTP/1.1 node-superagent/3.8.3]
+[2019-03-27T14:24:42.691] [INFO] default - test info 1
+[2019-03-27T14:24:43.543] [INFO] default - [::ffff:127.0.0.1 GET /reset 404 10ms][ HTTP/1.1 node-superagent/3.8.3]
+[2019-03-27T14:43:09.146] [INFO] default - test info 222222222
+[2019-03-27T14:43:38.784] [INFO] default - test info 222222222
+[2019-03-27T14:43:38.850] [INFO] default - [::1 GET /tasks 200 76ms][ HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
+[2019-03-27T14:43:39.052] [INFO] default - [::1 GET /favicon.ico 404 2ms][http://localhost:3000/tasks HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36]
